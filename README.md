@@ -10,5 +10,6 @@ The notebook contains
 
 
 
-|--|--|--|--|
-|![](imgs/Circle_10.png)  |![](imgs/Circle_100.png)  | ![](imgs/Circle_1000.png) | ![](imgs/Circle_10000.png) |
+
+| ![](imgs/Circle_10.png)  | ![](imgs/Circle_100.png)  | ![](imgs/Circle_1000.png) |  ![](imgs/Circle_10000.png) |
+| ----- | ----- | ----- | ----- |
